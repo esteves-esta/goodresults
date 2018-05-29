@@ -1,6 +1,6 @@
 ## Site da empresa GoodResults
 
-### Site realizado para conclusão do 1º modulo do curso de técnico informática.
+### Site realizado para conclusão do 1º modulo do Curso Técnico de Informática (curso atualmente renomeado como Desenvolvimento de Software).
 [LINK DO SITE](https://esteves-esta.github.io/goodresults/index.html)
 
 **Linguagens usadas neste projeto: HTML | CSS | JQUERY**
